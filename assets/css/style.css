@@ -1,0 +1,59 @@
+h1 {
+    font-size: 30pt;
+    color: white
+}
+h2 {
+    font-size: 15pt;
+    color: white
+}
+div{
+    margin: 10px;
+
+}
+
+body {
+    background-color: lightblue;
+}
+
+div.header {
+    width: 35%;
+    padding: 15px;
+    background-color :orange;
+}
+div.instructions {
+    width: 35%;
+    padding: 15px;
+    background-color: lightyellow
+}
+div.wrapper {
+    width: 35%;
+    overflow: hidden; 
+    
+    
+}
+div.pointcounter {
+    padding: 45px;
+    background-color: darkgreen;
+    float: left;
+
+
+}
+
+div.winlosscounter {
+    background-color: darkblue;
+    padding: 45px;
+    float: right;
+    
+}
+div.scoreheader, div.score {
+    width: 35%;
+    padding: 15px;
+    background-color: teal
+}
+
+
+
+inline.buttons {
+    width: 35%;
+    
+}
