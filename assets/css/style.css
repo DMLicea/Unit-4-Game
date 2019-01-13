@@ -18,12 +18,12 @@ body {
 div.header {
     width: 35%;
     padding: 15px;
-    background-color :orange;
+    background-color :teal;
 }
 div.instructions {
     width: 35%;
     padding: 15px;
-    background-color: lightyellow
+    background-color: lightyellow;
 }
 div.wrapper {
     width: 35%;
@@ -33,14 +33,14 @@ div.wrapper {
 }
 div.pointcounter {
     padding: 45px;
-    background-color: darkgreen;
+    background-color: teal;
     float: left;
 
 
 }
 
 div.winlosscounter {
-    background-color: darkblue;
+    background-color: teal;
     padding: 45px;
     float: right;
     
