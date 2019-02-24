@@ -21,3 +21,5 @@
 * The play() function checks if the score is equal or higher than the random number. If it finds either of those specifications to be true, it updates either the win or loss counter and runs the newGame function.
 
 * The newGame() function resets all the variables (apart from wins and loses) so the user can start a new game.
+
+* https://dmlicea.github.io/Unit-4-Game/
